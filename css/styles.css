@@ -1,7 +1,6 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -60,6 +59,9 @@ body {
   font-size: 1.8em;
 }
 
+.text-color{
+  color: black;
+}
 #phone {
   margin-top: 5px;
 }
@@ -73,9 +75,6 @@ body {
   padding-right: 15px;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
-}
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
